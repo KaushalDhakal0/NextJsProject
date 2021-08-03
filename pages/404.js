@@ -14,12 +14,12 @@ const NotFound = () => {
     <div className="not-found">
       <h1>Oooops...</h1>
       <h2>The page cannot be found</h2>
-      <p>
+      {/* <p>
         Go back to the
         <Link href="/">
           <a>Homepage</a>
         </Link>
-      </p>
+      </p> */}
     </div>
   );
 };
